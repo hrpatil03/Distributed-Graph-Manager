@@ -12,7 +12,7 @@
 | `Atharva Chikhale` |
 
 ## Overview
-This project simulates a distributed graph database system involving a load balancer process, a primary server process, two secondary server processes, a cleanup process, and several clients. The system is designed to handle read and write operations on graph databases efficiently using multithreading and load balancing techniques.
+This project simulates a distributed graph database system involving a load balancer process, a primary server process, two secondary server processes, a cleanup process, and several clients. The system is designed to handle read and write operations on graph databases efficiently using load balancing and multithreading techniques.
 
 ## Features
 - *Load Balancer*: Distributes client requests to appropriate servers.
