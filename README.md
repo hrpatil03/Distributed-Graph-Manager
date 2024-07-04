@@ -25,7 +25,7 @@ This project simulates a distributed graph database system involving a load bala
 - *Synchronization*: Ensures safe concurrent access to graph files.
 
 ## System Architecture
-![System Architecture](path/to/your/architecture-diagram.png)
+![System Architecture](architecture.png)
 
 ## Components
 ### Graph Database
