@@ -82,4 +82,4 @@ This project simulates a distributed graph database system involving a load bala
 - Run the cleanup process and follow the prompt to terminate the system.
 
 ## Synchronization
-- Uses mutexes or semaphores to handle concurrent access to graph files, ensuring serial execution of conflicting operations.
+- Uses mutexes or semaphores to handle concurrent access to graph files, ensuring serial execution of conflicting operations. 
